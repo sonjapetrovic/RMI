@@ -18,3 +18,5 @@ Then to install a package:
 installPackage("RandomMonomialIdeals")
 
 or even better (to update the documentation): installPackage("RandomMonomialIdeals", RerunExamples=>true)
+
+test.
